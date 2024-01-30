@@ -10,6 +10,7 @@ We created this fork because we needed to include the following modifications in
 | -- | ----------- |
 | - | Remove REQUEST_INSTALL_PACKAGES permission |
 | - | Fix plugin.xml declarations |
+| - | Add android:maxSdkVersion to READ_EXTERNAL_STORAGE permission |
 
 You can see all the changes here: [ce81802...moodlemobile:v2.2.0-moodle.3](https://github.com/darryncampbell/darryncampbell-cordova-plugin-intent/compare/ce81802fcbd49cf33882ebdc65ce631b2c56df05...moodlemobile:v2.2.0-moodle.3)
 
