@@ -11,12 +11,12 @@ We created this fork because we needed to include the following modifications in
 | - | Remove REQUEST_INSTALL_PACKAGES permission |
 | - | Fix plugin.xml declarations |
 
-You can see all the changes here: [ce81802...moodlemobile:v2.2.0-moodle.2](https://github.com/darryncampbell/darryncampbell-cordova-plugin-intent/compare/ce81802fcbd49cf33882ebdc65ce631b2c56df05...moodlemobile:v2.2.0-moodle.2)
+You can see all the changes here: [ce81802...moodlemobile:v2.2.0-moodle.3](https://github.com/darryncampbell/darryncampbell-cordova-plugin-intent/compare/ce81802fcbd49cf33882ebdc65ce631b2c56df05...moodlemobile:v2.2.0-moodle.3)
 
 ## Installation
 
 You can install this package using the [original installation instructions](https://github.com/darryncampbell/darryncampbell-cordova-plugin-intent#installation), but installing this package instead:
 
 ```sh
-cordova plugin add @moodlehq/cordova-plugin-intent@2.2.0-moodle.2
+cordova plugin add @moodlehq/cordova-plugin-intent@2.2.0-moodle.3
 ```

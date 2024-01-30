@@ -1,6 +1,6 @@
 {
   "name": "@moodlehq/cordova-plugin-intent",
-  "version": "2.2.0-moodle.2",
+  "version": "2.2.0-moodle.3",
   "description": "Moodle's fork of a general purpose intent shim layer for cordova appliations on Android. Handles various techniques for sending and receiving intents.",
   "main": "intentShim.js",
   "cordova": {
